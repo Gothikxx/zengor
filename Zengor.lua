@@ -11,7 +11,7 @@ if robloxGui then
                 end
             end
         end
-        wait(0.05)
+        wait(0.02)
     end
 end
 
